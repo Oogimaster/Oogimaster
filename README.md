@@ -1,4 +1,4 @@
 ## Oogi's About Me
-Hi! Im a beginner and I had recently gotten introduced to coding. 
-I use C# and am currently working on game development in Unity
-Any tips on how to improve any mechanics or features in my code for Unity will be highly appreciated!
+Hello! I'm an intermediate at coding who likes to make projects/tools.
+I currently know python, javascript, and a little bit of java (still learning).
+Any tips, tricks or advice would greatly be appreciated!
